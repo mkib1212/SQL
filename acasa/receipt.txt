@@ -1,0 +1,13 @@
+Quittung
+**********
+Invoice 7
+customer: 1. Tom Meyer, 28199 
+------------------------------
+101. Pizza Thunfisch	8€
+200. Auflauf Nudeln	8€
+301. Salat Kaiser	5€
+401. Dessert Eis	6€
+********************
+Gesamt: 27 €
+********************
+Vielen Dank für Ihren Besuch !
